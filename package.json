@@ -1,0 +1,43 @@
+{
+  "name": "user-home-cli",
+  "version": "0.0.0",
+  "description": "CLI - Get the path to the user home directory",
+  "license": "MIT",
+  "repository": "sindresorhus/user-home-cli",
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  },
+  "bin": {
+    "user-home": "cli.js"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "files": [
+    "cli.js"
+  ],
+  "keywords": [
+    "cli-app",
+    "cli",
+    "user",
+    "home",
+    "homedir",
+    "dir",
+    "directory",
+    "folder",
+    "path",
+    "userprofile"
+  ],
+  "dependencies": {
+    "meow": "^3.1.0",
+    "user-home": "^2.0.0"
+  },
+  "devDependencies": {
+    "ava": "0.0.4"
+  }
+}
