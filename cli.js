@@ -8,7 +8,7 @@ meow({
 		'Example',
 		'  $ user-home',
 		'  /Users/sindresorhus'
-	].join('\n')
+	]
 });
 
 console.log(userHome);
