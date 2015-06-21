@@ -1,7 +1,7 @@
 {
   "name": "user-home-cli",
   "version": "1.0.0",
-  "description": "CLI - Get the path to the user home directory",
+  "description": "Get the path to the user home directory",
   "license": "MIT",
   "repository": "sindresorhus/user-home-cli",
   "author": {

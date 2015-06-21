@@ -1,6 +1,6 @@
 # user-home-cli [![Build Status](https://travis-ci.org/sindresorhus/user-home-cli.svg?branch=master)](https://travis-ci.org/sindresorhus/user-home-cli)
 
-> CLI - Get the path to the user home directory
+> Get the path to the user home directory
 
 
 ## Install
