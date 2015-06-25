@@ -21,6 +21,11 @@ $ user-home --help
 ```
 
 
+## Related
+
+- [user-home](https://github.com/sindresorhus/user-home) - API for this module
+
+
 ## License
 
 MIT © [Sindre Sorhus](http://sindresorhus.com)
