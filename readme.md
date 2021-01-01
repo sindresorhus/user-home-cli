@@ -1,4 +1,4 @@
-# user-home-cli [![Build Status](https://travis-ci.org/sindresorhus/user-home-cli.svg?branch=master)](https://travis-ci.org/sindresorhus/user-home-cli)
+# user-home-cli
 
 > Get the path to the user home directory
 
