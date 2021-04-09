@@ -1,14 +1,11 @@
 #!/usr/bin/env node
-'use strict';
-var meow = require('meow');
-var userHome = require('user-home');
+import {homedir} from 'os';
+import meow from 'meow';
 
-meow({
-	help: [
-		'Example',
-		'  $ user-home',
-		'  /Users/sindresorhus'
-	]
-});
+meow(`
+	Example
+	  $ user-home
+	  /Users/sindresorhus
+`);
 
-console.log(userHome);
+console.log(homedir());

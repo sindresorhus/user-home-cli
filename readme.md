@@ -2,13 +2,11 @@
 
 > Get the path to the user home directory
 
-
 ## Install
 
 ```
 $ npm install --global user-home-cli
 ```
-
 
 ## Usage
 
@@ -19,13 +17,3 @@ $ user-home --help
     $ user-home
     /Users/sindresorhus
 ```
-
-
-## Related
-
-- [user-home](https://github.com/sindresorhus/user-home) - API for this module
-
-
-## License
-
-MIT © [Sindre Sorhus](http://sindresorhus.com)
